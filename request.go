@@ -20,7 +20,7 @@ type Request struct {
 	PassThrough           int
 	NotifyType            int
 	NotifyID              int
-	ExtraSourcdURI        string
+	ExtraSourceURI        string
 	ExtraTicker           string
 	ExtraNotifyForeground int
 	ExtraNotifyEffect     int
